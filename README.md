@@ -1,4 +1,5 @@
 # 📊 Sales Analysis Insights
+<img width="380" height="500" alt="Infographic image- Task 5" src="https://github.com/user-attachments/assets/1c718f6a-e253-4c69-a806-21ccb2ebbcf2" />
 
 ## 🔑 Key Business Metrics
 
